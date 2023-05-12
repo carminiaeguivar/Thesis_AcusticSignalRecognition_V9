@@ -1,6 +1,5 @@
 # Reconocimiento de señales acusticas diferentes a la voz humana usando principios de ASR
 
-####  *This is a personal project  to get a master degree in data science UTO*
 
 The approach of this project shows how ASR models can be applied to the recognition of acoustic signals other than the human voice, specifically the proposed model uses audio recordings of
 Bolivian birds combined with feature extraction techniques and Deep Learning algorithms. The project was developed in Python language, the input data, which in this case are audio recordings,
