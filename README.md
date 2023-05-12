@@ -26,6 +26,16 @@ In this project, the spectrograms are obtained using the dourier transforms that
 
 Convolutional neural networks are a type of deep learning algorithm that is primarily used to analyze and learn visual attributes from large amounts of data. They are mainly used for AI applications related to image processing in which they are specialists, this is the reason why audio files are transformed into images (spectrograms).
 
+# IMPORTANT NOTES 
+
+  The models with the best results were:
+- CNN1-DropOut ( into the file models_v1  with 61%  of accuracy at the valitation stage)
+- CNN2-Batch   ( thelast version for this model in in the file models_v2,  with 86% of accuracy at validation stage and 94% of accuracy at trainning stage  )
+- CNN3-LeakyRelu ( into the file models_v1 with 70%  of accuracy at the valitation stage)
+- CNN4-DenseNet  ( into the file models_v1 with 54%  of accuracy at the valitation stage)
+
+
+
 <!--
 ## Licencia
 
